@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FFF9EF;
+}
+
+h1 {
+    background-color: #FFDB8F;
+    color: #304f6e;
+}
+
+h2{
+    color: #679fd6;
+    font-style: italic;
+}
+
+.info-title {
+    color: #477aad;
+    font-style: italic;
+}
+
+.list-title {
+    color: #477aad;
+    font-weight: 700;
+}
+
+ul {
+    list-style: none;
+}
+
+li, p {
+    color: #304f6e;
+}
